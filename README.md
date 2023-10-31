@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
-I am a Machine Learning Engineer and Cybersecurity Engineer. I love programming,traveling and thinking.
+I am a Machine Learning Engineer and Cybersecurity Engineer. I love programming, traveling and thinking.
 
 As a Machine Learning, I enjoy building models that would one day solve problems in many ways, helping both the poor and rich.
 
