@@ -6,8 +6,8 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
-Hello, I'm Clinton Aikhu, an accomplished Machine Learning Engineer and seasoned Fullstack Django web developer with a wealth of expertise. Over the years, I've dedicated myself to crafting and deploying highly accurate machine learning models across diverse domains such as Computer Vision, Natural Language Processing, Time Series, Recommendation Systems and Generative AI applications.
-My commitment to excellence is evident in my passion for this dynamic field, coupled with a relentless work ethic. I take pride in utilizing a versatile set of programming languages and frameworks, including Python, C++, TensorFlow, PyTorch, Keras, Scikit Learn, OpenCV, Django, and various Python visualization libraries. With a keen eye for detail and a drive for innovation, I bring a unique blend of skills that consistently delivers outstanding results. Let's embark on a journey of turning complex ideas into seamless solutions together.
+Hello, I'm Clinton Aikhu, an accomplished Machine Learning Engineer and seasoned Fullstack Django web developer with a wealth of expertise. Over the years, I've dedicated myself to crafting and deploying highly accurate machine learning models across diverse domains such as Computer Vision, Natural Language Processing, Recommendation Systems and Generative AI applications.
+My commitment to excellence is evident in my passion for this dynamic field, coupled with a relentless work ethic. I take pride in utilizing a versatile set of programming languages and frameworks, including Python, C++, TensorFlow, PyTorch, Keras, Langchain, LlamaIndex, Openai, HuggingFace, Chromadb, Pinecone, Scikit Learn, OpenCV, Django, and various Python visualization libraries. With a keen eye for detail and a drive for innovation, I bring a unique blend of skills that consistently delivers outstanding results. Let's embark on a journey of turning complex ideas into seamless solutions together.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
   
